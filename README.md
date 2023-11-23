@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz.</h1>
 <h3 align="center">A Master's student in High Integrity Systems at Frankfurt University of Applied Sciences with working experience in Data Analytics and Frontend Development.</h3>
 
-- 🌱 I’m currently learning **Anomaly Detection techniques (Statistical, Machine Learning, Neural Networks) and Power Automate.**
+- 🌱 I’m currently learning **Anomaly Detection techniques (Statistical, Machine Learning, Neural Networks).**
 
 - 📫 How to reach me **faizusmani1994@gmail.com**
 
