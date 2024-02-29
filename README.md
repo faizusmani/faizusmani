@@ -14,6 +14,9 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
+<a href="https://github.com/faizusmani/elicitation-using-automation-and-ai" target="_blank">Elicitation using Automation and AI</a>
+</p>
+<p align="left">
 <a href="https://www.researchgate.net/publication/373641174_Topic_Modelling_on_ESG_statements_and_CO2_emission_value_extraction_from_reports_of_top_100_publicly_listed_German_Companies" target="_blank">Topic Modelling on ESG statements & CO2 emission extraction from reports of top 100 publicly listed German Companies</a>
 </p>
 <p align="left">
