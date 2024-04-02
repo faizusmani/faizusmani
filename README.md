@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz.</h1>
-<h3 align="center">A Master's student in High Integrity Systems at Frankfurt University of Applied Sciences with working experience in Data Analytics and Frontend Development.</h3>
+<h3 align="center">A Master's student in High Integrity Systems at Frankfurt University of Applied Sciences with working experience in Data Analytics, Microsoft Power Platform, and Frontend Development.</h3>
 
-- 🌱 I’m currently learning **Anomaly Detection techniques (Statistical, Machine Learning, Neural Networks).**
+- 🌱 I’m currently learning about **Anomaly Detection techniques (Statistical, Machine Learning, Neural Networks).**
 
 - 📫 How to reach me **faizusmani1994@gmail.com**
 
@@ -14,7 +14,13 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://github.com/faizusmani/elicitation-using-automation-and-ai" target="_blank">Elicitation using Automation and AI</a>
+<a href="https://github.com/faizusmani/financial-tables-extraction-using-rpa" target="_blank">Financial tables extraction using RPA (Royal London Group)</a>
+</p>
+<p align="left">
+<a href="https://github.com/faizusmani/elicitation-using-automation-and-ai" target="_blank">Elicitation using Automation and AI (Procredit Banking Group)</a>
+</p>
+<p align="left">
+<a href="https://github.com/faizusmani/Infrastructure-As-Code" target="_blank">Infrastructure-As-Code using Terraform and Ansible on Azure Cloud Platform</a>
 </p>
 <p align="left">
 <a href="https://www.researchgate.net/publication/373641174_Topic_Modelling_on_ESG_statements_and_CO2_emission_value_extraction_from_reports_of_top_100_publicly_listed_German_Companies" target="_blank">Topic Modelling on ESG statements & CO2 emission extraction from reports of top 100 publicly listed German Companies</a>
@@ -27,9 +33,6 @@
 </p>
 <p align="left">
 <a href="https://github.com/faizusmani/SCS-Simulation-of-Insulin-Pump" target="_blank">Software Simulation of an Insulin and Glucagon Pump</a>
-</p>
-<p align="left">
-<a href="https://github.com/faizusmani/Infrastructure-As-Code" target="_blank">Infrastructure-As-Code</a>
 </p>
 <p align="left">
 <a href="https://www.behance.net/gallery/179217747/Metro-Ceramics-(Photographs-and-Catalog-Design)" target="_blank">Photographs and Catalog Design of Ceramic Wares</a>
