@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz.</h1>
 <h3 align="center">A Master's student in High Integrity Systems at Frankfurt University of Applied Sciences with working experience in Data Analytics, Microsoft Power Platform, and Frontend Development.</h3>
 
-- 🌱 I’m currently learning about **Anomaly Detection techniques (Statistical, Machine Learning, Neural Networks).**
+- 🌱 I’m currently learning about **Data engineering and analytics in Microsoft Fabric.**
 
 - 📫 How to reach me **faizusmani1994@gmail.com**
 
@@ -14,10 +14,13 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://github.com/faizusmani/financial-tables-extraction-using-rpa" target="_blank">Financial tables extraction using RPA (Royal London Group)</a>
+<a href="https://github.com/faizusmani/Anomaly-Detection-in-Event-Communication" target="_blank">Anomaly Detection in Event Communication</a>
 </p>
 <p align="left">
 <a href="https://github.com/faizusmani/elicitation-using-automation-and-ai" target="_blank">Elicitation using Automation and AI (Procredit Banking Group)</a>
+</p>
+<p align="left">
+<a href="https://github.com/faizusmani/financial-tables-extraction-using-rpa" target="_blank">Financial tables extraction using RPA (Royal London Group)</a>
 </p>
 <p align="left">
 <a href="https://github.com/faizusmani/Infrastructure-As-Code" target="_blank">Infrastructure-As-Code using Terraform and Ansible on Azure Cloud Platform</a>
