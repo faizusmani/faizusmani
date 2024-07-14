@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **faizusmani1994@gmail.com**
 
-- 🎨 In my free time I photograph people and places, read novels, and sometimes binge-watch a really good anime or TV series (proudly guilty).
+- 🎨 In my free time I like photographing people and places, reading novels, and sometimes binge-watching a really good anime or TV series (proudly guilty).
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faiz-usmani-099660100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiz-usmani-099660100" height="30" width="40" /></a>
