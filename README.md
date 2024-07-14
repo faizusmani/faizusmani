@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faiz-usmani-099660100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiz-usmani-099660100" height="30" width="40" />LinkedIn</a>&nbsp;&nbsp;
-<a href="https://www.behance.net/faizusmani3f47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="faizusmani3f47" height="30" width="40" />Behance</a>&nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/mohammad-faiz-usmani/publications" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="mohammad-faiz-usmani" height="30" width="40" />ResearchGate</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/faiz-usmani-099660100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiz-usmani-099660100" height="30" width="40" /></a>
+<a href="https://www.behance.net/faizusmani3f47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="faizusmani3f47" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/mohammad-faiz-usmani/publications" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="mohammad-faiz-usmani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Projects:</h3>
