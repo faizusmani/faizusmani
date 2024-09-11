@@ -22,13 +22,13 @@
 <a href="https://github.com/faizusmani/Anomaly-Detection-in-Event-Communication" target="_blank">Anomaly Detection in Event Communication</a>
 </p>
 <li><p align="left">
-<a href="https://github.com/faizusmani/elicitation-using-automation-and-ai" target="_blank">Elicitation using Automation and AI (Procredit Banking Group)</a>
+<a href="https://github.com/faizusmani/elicitation-using-automation-and-ai" target="_blank">Elicitation using Automation and AI</a>
 </p>
 <li><p align="left">
 <a href="https://github.com/faizusmani/sql-monolith" target="_blank">SQL Monolith</a>
 </p>
 <li><p align="left">
-<a href="https://github.com/faizusmani/financial-tables-extraction-using-rpa" target="_blank">Financial tables extraction using RPA (Royal London Group)</a>
+<a href="https://github.com/faizusmani/financial-tables-extraction-using-rpa" target="_blank">Financial tables extraction using RPA</a>
 </p>
 <li><p align="left">
 <a href="https://github.com/faizusmani/Infrastructure-As-Code" target="_blank">Infrastructure-As-Code using Terraform and Ansible on Azure Cloud Platform</a>
