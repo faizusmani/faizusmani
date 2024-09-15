@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiz.</h1>
-<h3 align="center">A Master's student in High Integrity Systems at Frankfurt University of Applied Sciences with working experience in Data Analytics, Web Development, and Project Management.</h3>
+<h3 align="center">A Master's student in High Integrity Systems at Frankfurt University of Applied Sciences with working experience in Data Analytics, Web Development, Automation, and Project Management.</h3>
 
 - 🌱 I’m currently learning about **Data engineering and analytics in Microsoft Fabric.**
 
